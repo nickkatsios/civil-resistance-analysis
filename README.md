@@ -21,7 +21,7 @@ source $(poetry env info -p)/bin/activate
 ```
 * Run the notebook
 ```bash
-jupyter notebook ./civil-resistance-analysis/analysis.ipynb
+jupyter notebook ./civil_resistance_analysis/analysis.ipynb
 ```
 
 ### Notes 
